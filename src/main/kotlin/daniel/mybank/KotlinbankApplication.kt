@@ -8,4 +8,5 @@ class KotlinbankApplication
 
 fun main(args: Array<String>) {
 	runApplication<KotlinbankApplication>(*args)
+
 }
